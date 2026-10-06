@@ -4,6 +4,7 @@ Allow: /
 # Exclure les fichiers non pertinents pour le SEO
 Disallow: /js/
 Disallow: /css/
+Disallow: /crm/
 
 # Autoriser les ressources nécessaires au rendu
 Allow: /js/main.js

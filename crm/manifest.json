@@ -1,0 +1,15 @@
+{
+  "name": "Nexstay CRM",
+  "short_name": "Nexstay",
+  "description": "Gestion de conciergerie locative : logements, locataires, paiements, rapports.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7F4F1",
+  "theme_color": "#C27A6B",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
